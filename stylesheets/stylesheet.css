@@ -1,0 +1,58 @@
+body
+{
+	background-color: #2E2E2E;
+}
+.navbar
+{
+	margin-bottom: 0px;
+}
+.siteLogo
+{
+	width: 80px;
+	
+}
+.card-view
+{
+	width: 2160px;
+	overflow: auto;
+}
+.singlecard
+{
+	padding-top: 50px;
+	width: 300px;
+	display: inline-block;
+	padding: 10px;
+	height: 750px;
+	overflow: auto;
+}
+.main-view
+{
+	margin-top: 80px;
+	display: block;
+}
+.cardTitle
+{
+	font-size: 22px;
+}
+.exerciseTitle
+{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.sets
+{
+	color: #084B8A;
+	font-weight: bold;
+}
+.sets-container
+{
+	margin-top: -10px;
+	padding-left: 30px;
+}
+i
+{
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: underline;
+}
